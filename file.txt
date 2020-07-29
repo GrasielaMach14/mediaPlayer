@@ -1,0 +1,31 @@
+Criar projeto react:
+
+https://pt-br.reactjs.org/docs/create-a-new-react-app.html
+
+Criar logomarca:
+
+https://fontmeme.com/
+
+Escolher fonte para o projeto:
+
+https://fonts.google.com/specimen/Roboto
+
+Instalar mais componentes:
+
+No terminal: npm install styled-components (Aqui irá incluir todo o css vinculado ao componente criado)
+
+Instalando a biblioteca react-root:
+
+https://reactrouter.com/web/guides/quick-start
+
+No terminal:  ->npm install react-router-dom
+
+Após colar código do Slider(barra de rolagem do carrousel):
+
+Rodar -> npm install react-slick
+
+Adicionar duas linhas de links do css no  public/index.html estão no url: https://gist.github.com/omariosouto/5a3cb806f5be71cfc52909bca0eaa634
+
+Acompanhar no link:
+
+https://gist.github.com/omariosouto/5a3cb806f5be71cfc52909bca0eaa634
