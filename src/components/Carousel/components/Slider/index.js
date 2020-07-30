@@ -39,23 +39,20 @@ export const SliderItem = styled.li`
 `;
 
 
-const Slider = ({ children, color }) => (
-    <Container color={color}>
-      <SlickSlider {...{
-        dots: false,
-        infinite: true,
-        speed: 300,
-        centerMode: false,
-        // variableWidth: true,
-        slidesToShow: 3,
-        slidesToScroll: 3,
-        initialSlide: 0,
-        adaptiveHeight: true,
-      }}
-      >
-        {children}
-      </SlickSlider>
-    </Container>
-  );
+const Slider = ({ children }) => (
+  <Container>
+    <SlickSlider {...{
+      dots: false,
+      infinite: false,
+      speed: 300,
+      centerMode: false,
+      variableWidth: true,
+      adaptiveHeight: true,
+    }}
+    >
+      {children}
+    </SlickSlider>
+  </Container>
+);
 
 export default Slider; 

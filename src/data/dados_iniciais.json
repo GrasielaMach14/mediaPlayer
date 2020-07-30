@@ -1,16 +1,16 @@
 {
   "categorias": [
     {
-      "titulo": "Busque aqui faixas da sua série favorita.",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Encontre faixas da sua série favorita",
+      "link": "https://www.youtube.com/watch?v=V-XomaDFbcQ",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Soundtracks S2, love it!",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "https://www.youtube.com/watch?v=x4jRPwAgwzA"
       },
       "videos": [
         {
-          "titulo": "Relembre aqui as músicas mais marcantes",
+          "titulo": "Porque relembrar é viver",
           "url": "https://www.youtube.com/watch?v=V-XomaDFbcQ" 
         },
         {
@@ -18,24 +18,24 @@
           "url": "https://www.youtube.com/watch?v=x4jRPwAgwzA"
         },
         {
-          "titulo": "Revenge OST - Darkness",
-          "url": "https://www.youtube.com/watch?v=YKyP3sjvFSI&list=PLQysnQ5zTyJd64MDG0Dl2udDpf33DkBrV&index=12"
-        },
-        {
-          "titulo": "RY X - Thunder | Dark: Season 2 OST",
-          "url": "https://www.youtube.com/watch?v=2lVzbxljmXk"
-        },
-        {
-          "titulo": "My Body Is A Cage | Dark: Season 2 OST",
-          "url": "https://www.youtube.com/watch?v=PkNtBuwWq_o"
-        },
-        {
-          "titulo": "The 100 S01E01 - Youngblood Hawke - We Come Running",
-          "url": "https://www.youtube.com/watch?v=ozOofaTk7WE"
+          "titulo": "Revenge Soundtrack: Ep 1. Angus and Julia Stone - For You",
+          "url": "https://www.youtube.com/watch?v=13rhQ2lAqc4"
         },
         {
           "titulo": "Raury - God's Whisper | Dark: Season 2 OST",
           "url": "https://www.youtube.com/watch?v=b5hh5kAu5Uk"
+        },
+        {
+          "titulo": "Superman - Five for fighting - ( Smallville )",
+          "url": "https://www.youtube.com/watch?v=8aJj5CqCw-o"
+        },
+        {
+          "titulo": "The 100 Soundtrack 3x05 - Thousand Eyes by Of Monsters and Men",
+          "url": "https://www.youtube.com/watch?v=ZJznKuVQUhw"
+        },
+        {
+          "titulo": "CSI Soundtrack Who Are You The Who",
+          "url": "https://www.youtube.com/watch?v=Qh8SsaCWY-s&list=PL9B59D91DEA961F02"
         },
         {
           "titulo": "Adna - Beautiful Hell (Audio) [THE RAIN - 1X06 - SOUNDTRACK]",
@@ -44,140 +44,148 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Melhores cenas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Momentos marcantes",
+        "url": "https://www.youtube.com/watch?v=aoxnEOoa1QM"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "6 MELHORES CENAS DE GAME OF THRONES!",
+          "url": "https://www.youtube.com/watch?v=fxbBwVeDrQ4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "10 cenas de La Casa de Papel ",
+          "url": "https://www.youtube.com/watch?v=pRUYltIUACU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Os momentos mais surreais de Dark | Netflix Brasil",
+          "url": "https://www.youtube.com/watch?v=aoxnEOoa1QM"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "AS 7 MELHORES CENAS DE PEAKY BLINDERS",
+          "url": "https://www.youtube.com/watch?v=4y7EMnZ1kDc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "MELHORES EPISÓDIOS DE BLACK MIRROR",
+          "url": "https://www.youtube.com/watch?v=EqlbDT9W2XA"
+        }, 
+        {
+          "titulo": "Grey's Anatomy",
+          "url": "https://www.youtube.com/watch?v=VIXLCzkAV6k"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Curiosidades dos bastidores",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "15 ANOS GREY'S ANATOMY: POLÊMICAS, TRETAS E SUCESSO!",
+        "url": "https://www.youtube.com/watch?v=-66A-5cSQfc"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "LADO SOMBRIO DE GLEE! CRIMES E AS POLÊMICAS DE BASTIDORES",
+          "url": "https://www.youtube.com/watch?v=0jwwKN04SVk"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "15 ANOS GREY'S ANATOMY: POLÊMICAS, TRETAS E SUCESSO!",
+          "url": "https://www.youtube.com/watch?v=-66A-5cSQfc"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "64 segredos de GAME OF THRONES que você não sabia",
+          "url": "https://www.youtube.com/watch?v=yug43eH-1PI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "A Verdadeira história: A MALDIÇÃO DA RESIDÊNCIA HILL - 9 SEGREDOS Não REVELADOS",
+          "url": "https://www.youtube.com/watch?v=J8X8GSNKT-Y"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Trailers",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "The Handmaid’s Tale | Trailer oficial (Legendado)",
+          "url": "https://www.youtube.com/watch?v=qlaQS_x9PlI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "A MALDIÇÃO DA RESIDÊNCIA HILL | Trailer Oficial Netflix",
+          "url": "https://www.youtube.com/watch?v=TvELCT5LGQw"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Dark – Temporada 3 | Trailer oficial | Netflix",
+          "url": "https://www.youtube.com/watch?v=9RNHKKYJvg8"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Stranger Things - Temporada 3 - Trailer Dublado",
+          "url": "https://www.youtube.com/watch?v=Bq5aGdtV9Fo"
+        },
+        {
+          "titulo": "La Casa de Papel: Parte 4 | Trailer oficial | Netflix",
+          "url": "https://www.youtube.com/watch?v=ZpBrBop30m4"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Curiosidades dos filmes",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Maiores babados",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "MAD MAX: ESTRADA DA FÚRIA - A VERDADE SOMBRIA POR TRÁS DO CLÁSSICO",
+          "url": "https://www.youtube.com/watch?v=IlbzAqQfOuM"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "A História Por Trás de Corra! (Com Spoilers)",
+          "url": "https://www.youtube.com/watch?v=XGMXMUp03EA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "CORINGA(JOKER), POR TRÁS DAS CÂMERAS",
+          "url": "https://www.youtube.com/watch?v=VfEQFb_SUwo"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "8 Atores Que Nunca Mais Foram os Mesmos Após um Papel",
+          "url": "https://www.youtube.com/watch?v=ATL9HVD91S8"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Erros De Gravação Tão Bons Que Foram Pra Versão Final",
+          "url": "https://www.youtube.com/watch?v=2kjWK2sYW7E"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Temas de filmes",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Trilhas sonoras mais marcantes",
+        "url": "https://www.youtube.com/watch?v=-bzWSJG93P8"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Saw - Jogos Mortais | SoundTrack",
+          "url": "https://www.youtube.com/watch?v=hWaNoK3gN6M"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Guardiões da Galáxia vol.2 - Música do Trailer 2",
+          "url": "https://www.youtube.com/watch?v=YFASnIesCbM&list=PL_uUV254LxL5pQglffB8PfqXucvO5DD9x"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Star Wars- The Imperial March (Darth Vader's Theme)",
+          "url": "https://www.youtube.com/watch?v=-bzWSJG93P8"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Casa de Cera - House of Wax Soundtrack | 02. Helena By My Chemical Romance",
+          "url": "https://www.youtube.com/watch?v=OYZPM_9lVe4&list=PLysZzYC5uNV6fyVETDo8iwFR5yUw3jqUY&index=2"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "La Casa de Papel | Cecília Krull - My is going on",
+          "url": "https://www.youtube.com/watch?v=F1oHBcTdKL4"
         }
       ]
     }

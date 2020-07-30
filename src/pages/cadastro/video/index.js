@@ -1,16 +1,19 @@
-import React from 'react';
-import {Link} from 'react-router-dom';
-import PageDefault from '../../../components/PageDefault';
+import React from "react";
 
-function CadastroVideo(){
-    return (
-      <PageDefault>
-          <h1>Cadastro de vídeo</h1>          
-          <Link to="/cadastro/categoria">
-              Cadastrar Categoria
-          </Link>
-      </PageDefault>
-    )
+function FormField({ label, type, name, value, onChange }) {
+  return (
+    <div>
+      <label>
+        {label}: 
+        <input
+          type={type}
+          value={value}
+          name={name}
+          onChange={onChange}
+        />
+      </label>
+    </div>
+  )
 }
 
-export default CadastroVideo;
+export default FormField;
