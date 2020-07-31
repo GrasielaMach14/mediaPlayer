@@ -29,3 +29,7 @@ Adicionar duas linhas de links do css no  public/index.html estão no url: https
 Acompanhar no link:
 
 https://gist.github.com/omariosouto/5a3cb806f5be71cfc52909bca0eaa634
+
+Para subir o projeto e lançar na internet:
+
+https://vercel.com/grasielamach14
