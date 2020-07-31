@@ -4,7 +4,7 @@ import Menu from '../Menu';
 import Footer from '../Footer';
 import '../../index.css';
 
- const Main = styled.main`
+const Main = styled.main`
      background-color: var(--black);
      color: var(--white);
      flex: 1;
@@ -13,17 +13,16 @@ import '../../index.css';
      padding-right: 5%;
  `;
 
-function PageDefault({children}){
-    
-    return (
-        <React.Fragment>
-            <Menu/>
-                <Main>
-                    {children}
-                </Main>                
-            <Footer/>
-        </React.Fragment>        
-    );
+function PageDefault({ children }) {
+  return (
+    <>
+      <Menu />
+      <Main>
+        {children}
+      </Main>
+      <Footer />
+    </>
+  );
 }
 
 export default PageDefault;

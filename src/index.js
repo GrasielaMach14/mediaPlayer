@@ -1,28 +1,28 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Home from './pages/Home/App';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import Home from './pages/Home/App';
 import CadastroVideo from './pages/cadastro/video/index';
 import CadastroCategoria from './pages/cadastro/categoria/index';
 
 const Erro404 = () => (
-        <div>
-          <h2>Erro 404</h2> 
-          <p>Página não encontrada</p>   
-        </div> 
-      )
+  <div>
+    <h2>Erro 404</h2>
+    <p>Página não encontrada</p>
+  </div>
+);
 
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/" component={Home} exact ></Route>
-      <Route path="/cadastro/video" component={CadastroVideo} ></Route>
-      <Route path="/cadastro/categoria" component={CadastroCategoria}></Route>
-      <Route component={Erro404}></Route>
+      <Route path="/" component={Home} exact />
+      <Route path="/cadastro/video" component={CadastroVideo} />
+      <Route path="/cadastro/categoria" component={CadastroCategoria} />
+      <Route component={Erro404} />
     </Switch>
   </BrowserRouter>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
 
 /*

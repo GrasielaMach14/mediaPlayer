@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Trilha sonora",
+            "descricao": "Faixas inesquecíveis",
+            "cor": "cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Melhores momentos",
+            "descricao": "Cenas inesquecíveis",
+            "cor": "cbd1ff"
+        }
+    ]
+}

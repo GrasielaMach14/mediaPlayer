@@ -1,9 +1,10 @@
 import styled from 'styled-components';
 // import ButtonLink from '../Menu/componentes/ButtonLink';
 
-const Button =  styled.a`
+const Button = styled.a`
     color: var(--white);
     border: 1px solid var(--white);
+    background: var(--black);
     box-sizing: border-box;
     cursor: pointer;
     padding: 16px 24px;
