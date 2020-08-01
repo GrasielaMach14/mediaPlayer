@@ -1,16 +1,191 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Trilha sonora",
-            "descricao": "Faixas inesquecíveis",
-            "cor": "cbd1ff"
-        },
-        {
-            "id": 2,
-            "nome": "Melhores momentos",
-            "descricao": "Cenas inesquecíveis",
-            "cor": "cbd1ff"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Melhores cenas",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "MOMENTOS MARCANTES",
+        "url": "https://www.youtube.com/watch?v=aoxnEOoa1QM"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Bastidores",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "10 cenas de La Casa de Papel ",
+        "url": "https://www.youtube.com/watch?v=pRUYltIUACU"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Trailers",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Os momentos mais surreais de Dark | Netflix Brasil",
+        "url": "https://www.youtube.com/watch?v=aoxnEOoa1QM"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Temas de filmes",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Trilha sonora",
+      "cor": "red",
+      "link_extra": {
+        "text": "AS 7 MELHORES CENAS DE PEAKY BLINDERS",
+        "url": "https://www.youtube.com/watch?v=4y7EMnZ1kDc"
+     }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "LADO SOMBRIO DE GLEE! CRIMES E AS POLÊMICAS DE BASTIDORES",
+      "url": "https://www.youtube.com/watch?v=0jwwKN04SVk"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "15 ANOS GREY'S ANATOMY: POLÊMICAS, TRETAS E SUCESSO!",
+      "url": "https://www.youtube.com/watch?v=-66A-5cSQfc"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "64 segredos de GAME OF THRONES que você não sabia",
+      "url": "https://www.youtube.com/watch?v=yug43eH-1PI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "A Verdadeira história: A MALDIÇÃO DA RESIDÊNCIA HILL - 9 SEGREDOS Não REVELADOS",
+      "url": "https://www.youtube.com/watch?v=J8X8GSNKT-Y"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "The Handmaid’s Tale | Trailer oficial (Legendado)",
+      "url": "https://www.youtube.com/watch?v=qlaQS_x9PlI"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "A MALDIÇÃO DA RESIDÊNCIA HILL | Trailer Oficial Netflix",
+      "url": "https://www.youtube.com/watch?v=TvELCT5LGQw"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Dark – Temporada 3 | Trailer oficial | Netflix",
+      "url": "https://www.youtube.com/watch?v=9RNHKKYJvg8"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Stranger Things - Temporada 3 - Trailer Dublado",
+      "url": "https://www.youtube.com/watch?v=Bq5aGdtV9Fo"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "La Casa de Papel: Parte 4 | Trailer oficial | Netflix",
+      "url": "https://www.youtube.com/watch?v=ZpBrBop30m4"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "MAD MAX: ESTRADA DA FÚRIA - A VERDADE SOMBRIA POR TRÁS DO CLÁSSICO",
+      "url": "https://www.youtube.com/watch?v=IlbzAqQfOuM"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "A História Por Trás de Corra! (Com Spoilers)",
+      "url": "https://www.youtube.com/watch?v=XGMXMUp03EA"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "CORINGA(JOKER), POR TRÁS DAS CÂMERAS",
+      "url": "https://www.youtube.com/watch?v=VfEQFb_SUwo"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "8 Atores Que Nunca Mais Foram os Mesmos Após um Papel",
+      "url": "https://www.youtube.com/watch?v=ATL9HVD91S8"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Erros De Gravação Tão Bons Que Foram Pra Versão Final",
+      "url": "https://www.youtube.com/watch?v=2kjWK2sYW7E"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "text": "TRILHAS SONORAS MAIS MARCANTES",
+      "url": "https://www.youtube.com/watch?v=-bzWSJG93P8"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Saw - Jogos Mortais | SoundTrack",
+      "url": "https://www.youtube.com/watch?v=hWaNoK3gN6M"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Guardiões da Galáxia vol.2 - Música do Trailer 2",
+      "url": "https://www.youtube.com/watch?v=YFASnIesCbM&list=PL_uUV254LxL5pQglffB8PfqXucvO5DD9x"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Star Wars- The Imperial March (Darth Vader's Theme)",
+      "url": "https://www.youtube.com/watch?v=-bzWSJG93P8"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Casa de Cera - House of Wax Soundtrack | 02. Helena By My Chemical Romance",
+      "url": "https://www.youtube.com/watch?v=OYZPM_9lVe4&list=PLysZzYC5uNV6fyVETDo8iwFR5yUw3jqUY&index=2"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "La Casa de Papel | Cecília Krull - My is going on",
+      "url": "https://www.youtube.com/watch?v=F1oHBcTdKL4"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "64 segredos de GAME OF THRONES que você não sabia",
+      "url": "https://www.youtube.com/watch?v=yug43eH-1PI"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Assassins Creed Valhalla",
+      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "God of War 4",
+      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Resident Evil 8",
+      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+    }
+  ]
 }
