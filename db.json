@@ -39,7 +39,7 @@
       "link_extra": {
         "text": "AS 7 MELHORES CENAS DE PEAKY BLINDERS",
         "url": "https://www.youtube.com/watch?v=4y7EMnZ1kDc"
-     }
+      }
     }
   ],
   "videos": [
@@ -186,6 +186,12 @@
       "categoriaId": 5,
       "titulo": "Resident Evil 8",
       "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+    },
+    {
+      "titulo": "Segredos de GOT",
+      "url": "https://www.youtube.com/watch?v=yug43eH-1PI",
+      "categoriaId": 2,
+      "id": 25
     }
   ]
 }
